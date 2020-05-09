@@ -1,0 +1,7 @@
+body {
+  background-color: azure;
+}
+
+#taskCard:hover {
+  cursor: pointer;
+}
